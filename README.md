@@ -1,6 +1,7 @@
 # Spark Sbt Template
 
-### Requirements:scala, sbt
+### Requirements:
+scala, sbt
 
 ### How to use:
 
