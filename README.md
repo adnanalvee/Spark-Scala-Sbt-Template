@@ -1,4 +1,4 @@
-# Spark Sbt Template
+# Spark-Scala Sbt Template
 
 ### Requirements:
 scala, sbt
