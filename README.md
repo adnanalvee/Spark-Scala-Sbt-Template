@@ -1,8 +1,8 @@
 # Spark Sbt Template
 
-### Requirements:#### scala, sbt
+### Requirements:scala, sbt
 
-To run, type
+### How to use:
 
 `git clone https://github.com/adnanalvee/Spark-Scala-Sbt-Template.git`  
   
