@@ -1,0 +1,222 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$anonfun$1.class
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$anonfun$2.class
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$anonfun$3.class
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$anonfun$4.class
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$typecreator1$1.class
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$typecreator2$1.class
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$.class
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$OnePerson$.class
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$OnePerson.class
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$Viewership$.class
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$Viewership.class
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject.class
+binary dependencies:
+6 items
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-1.5.2.jar
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-1.5.2.jar
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> /Users/AA474P/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject$
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject$$anonfun$1
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject$$anonfun$2
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject$$anonfun$3
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject$$anonfun$4
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject$$typecreator1$1
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject$$typecreator2$1
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject$OnePerson
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject$OnePerson$
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject$Viewership
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage.MyMainObject$Viewership$
+used names:
+99 items
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> $m
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> $m$untyped
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> $typecreator1
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> $typecreator2
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> $u
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> &&
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> <init>
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> ==
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> AbstractFunction3
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> AbstractFunction6
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> AnyRef
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Array
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> ClassTag
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Int
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Mirror
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> MyMainObject
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> None
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Nothing
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> OnePerson
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Predef
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Product
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> SQLContext
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> ScalaRunTime
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Serializable
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Singleton
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> SparkConf
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> SparkContext
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Statics
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> String
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Type
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> TypeCreator
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> TypeTag
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> U
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Unit
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Universe
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> Viewership
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> _toString
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> age
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> anyHash
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> apache
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> apply
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> arrayClass
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> asInstanceOf
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> asType
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> att_addr_id
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> att_indiv_id
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> attr
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> augmentString
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> broadcast
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> conf
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> content_title
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> dban
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> df1
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> df2
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> eq
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> finalizeHash
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> functions
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> gender_code
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> getClass
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> getClassLoader
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> hh_income
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> implicits
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> isInstanceOf
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> join
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> joinDF
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> map
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> materializeClassTag
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> materializeTypeTag
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> mix
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> myPackage
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> org
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> package
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> rdd
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> rddJoined
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> rddToDataFrameHolder
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> reflect
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> runtime
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> runtimeMirror
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> saveAsTextFile
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> sc
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> scala
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> setAppName
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> spark
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> split
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> sql
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> sqlContext
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> staticClass
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> test
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> textFile
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> toDF
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> toInt
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> toString
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> toTypeConstructor
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> total_program_duration
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> typedProductIterator
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> types
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> universe
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> viewershipData
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> ||
+product stamps:
+12 items
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$anonfun$1.class -> lastModified(1478279430000)
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$anonfun$2.class -> lastModified(1478279430000)
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$anonfun$3.class -> lastModified(1478279430000)
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$anonfun$4.class -> lastModified(1478279430000)
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$typecreator1$1.class -> lastModified(1478279430000)
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$$typecreator2$1.class -> lastModified(1478279430000)
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$.class -> lastModified(1478279430000)
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$OnePerson$.class -> lastModified(1478279430000)
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$OnePerson.class -> lastModified(1478279430000)
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$Viewership$.class -> lastModified(1478279430000)
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject$Viewership.class -> lastModified(1478279430000)
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/target/scala-2.10/classes/myPackage/MyMainObject.class -> lastModified(1478279430000)
+source stamps:
+1 items
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> hash(1919f7443028fa334078ab649c0cedc8cc6f5b0d)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/AA474P/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-1.5.2.jar -> lastModified(1446582526000)
+/Users/AA474P/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar -> lastModified(1446582950000)
+/Users/AA474P/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-1.5.2.jar -> lastModified(1446582925000)
+/Users/AA474P/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> lastModified(1395179160000)
+/Users/AA474P/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar -> lastModified(1395179222000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/AA474P/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-1.5.2.jar -> org.apache.spark.sql.Row
+/Users/AA474P/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar -> org.apache.spark.rdd.RDD
+/Users/AA474P/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-1.5.2.jar -> org.apache.spark.sql.SQLContext
+/Users/AA474P/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> scala.runtime.AbstractFunction6
+/Users/AA474P/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar -> scala.reflect.api.package$
+internal apis:
+1 items
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCJJXcAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cM1zjRJ0AAZub3RpZnlzcQB+AAxZsVdTdAAHdW5hcHBseXNxAH4ADF6WzaN0AAdjdXJyaWVkc3EAfgAMNNZOZHQAC2dlbmRlcl9jb2Rlc3EAfgAMP6/cDnQADE15TWFpbk9iamVjdHNxAH4ADFd+ko10AAR3YWl0c3EAfgAMpZVBKXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMGDPMQHQADSRhc0luc3RhbmNlT2ZzcQB+AAxhaRUHdAAOY29weSRkZWZhdWx0JDVzcQB+AAzjoffDdAAMcHJvZHVjdEFyaXR5c3EAfgAM0vnxInQABmVxdWFsc3NxAH4ADPjTPUN0AAloaF9pbmNvbWVzcQB+AAxVrIKXdAAMYXNJbnN0YW5jZU9mc3EAfgAMqwDsA3QADHN5bmNocm9uaXplZHNxAH4ADNDICUB0AAthdHRfYWRkcl9pZHNxAH4ADPQ8u0V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMzK68cHQABnR1cGxlZHNxAH4ADPrzY550AAhjYW5FcXVhbHNxAH4ADLnwvth0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADAXMXDN0AARtYWluc3EAfgAMlmMhNHQADXByb2R1Y3RQcmVmaXhzcQB+AAznbpfPdAADYWdlc3EAfgAMlaKQmXQACW5vdGlmeUFsbHNxAH4ADHCOGb10AAxpc0luc3RhbmNlT2ZzcQB+AAxiCYfbdAAGPGluaXQ+c3EAfgAMp/uo8XQADWNvbnRlbnRfdGl0bGVzcQB+AAxmdVZ0dAAWdG90YWxfcHJvZ3JhbV9kdXJhdGlvbnNxAH4ADLD2+O50AAVhcHBseXNxAH4ADKBmx810AAI9PXNxAH4ADEms5LJ0AARkYmFuc3EAfgAMqEJQinQABWNsb25lc3EAfgAMihy/0HQADGF0dF9pbmRpdl9pZHNxAH4ADDp4BRR0AAYkaW5pdCRzcQB+AAy6b1vydAAJT25lUGVyc29uc3EAfgAMbH9EgXQADmNvcHkkZGVmYXVsdCQzc3EAfgAMrH3+U3QABGNvcHlzcQB+AAyAUcHEdAAIdG9TdHJpbmdzcQB+AAxAp52pdAACIT1zcQB+AAyqBj8ndAAIZ2V0Q2xhc3NzcQB+AAx5YiJedAAOY29weSRkZWZhdWx0JDFzcQB+AAwJpnMPdAAKVmlld2Vyc2hpcHNxAH4ADBSTFoN0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADNyea9t0AAJuZXNxAH4ADBv0Qlh0AAJlcXNxAH4ADIZF2P10AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwCRgK7dAACIyNzcQB+AAyroZTWdAAIZmluYWxpemVzcQB+AAwhGI+gdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzTlX/4dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB5eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAWbXlQYWNrYWdlLk15TWFpbk9iamVjdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AkXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB5TAAJaW5oZXJpdGVkcQB+AHlMAAdwYXJlbnRzcQB+AHl4cQB+AJZzcQB+AJF1cQB+AHQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AHpxAH4Ag3VxAH4AhAAAAABzcQB+AIYAcQB+ADV1cQB+AIkAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AlXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALF1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCeeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCMdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgClWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCVc3EAfgCkdAAFQXJyYXlxAH4AqnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCkdAAGU3RyaW5nc3EAfgCoc3EAfgCrdXEAfgCuAAAAA3NxAH4AsHQABGphdmFzcQB+ALB0AARsYW5ncQB+ALVzcQB+AJF1cQB+AHQAAAAAc3EAfgCRdXEAfgDJAAAAAnNxAH4ApHQABk9iamVjdHEAfgDNc3EAfgCkdAADQW55cQB+AKp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAlteVBhY2thZ2VzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVgwUfCUdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATS9Vc2Vycy9BQTQ3NFAvTGFiL3BsYXlncm91bmQvc3Bhcmstc2J0LWJ1aWxkcy9wcmotMS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGRn3RDAo+jNAeKtknAztyMxvWw0=
+external apis:
+0 items
+source infos:
+1 items
+/Users/AA474P/Lab/playground/spark-sbt-builds/prj-1/src/main/scala/myPackage/MyMainObject.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWCEaxjl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9BQTQ3NFAvTGFiL3BsYXlncm91bmQvc3Bhcmstc2J0LWJ1aWxkcy9wcmotMS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWCE2lVJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9BQTQ3NFAvTGFiL3BsYXlncm91bmQvc3Bhcmstc2J0LWJ1aWxkcy9wcmotMS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWDA2OYh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9BQTQ3NFAvTGFiL3BsYXlncm91bmQvc3Bhcmstc2J0LWJ1aWxkcy9wcmotMS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWDBR8JR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9BQTQ3NFAvTGFiL3BsYXlncm91bmQvc3Bhcmstc2J0LWJ1aWxkcy9wcmotMS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
