@@ -10,7 +10,7 @@ import org.apache.spark.sql.functions._
 object MyMainObject {
 
   // Always declare your Class files outside main method.
-  case class OnePerson(col1: String, col2:String, cole:String)
+  case class SampleClass(col1: String, col2:String, cole:String)
 
   def main(args: Array[String]) {
 
