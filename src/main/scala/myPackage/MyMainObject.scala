@@ -14,6 +14,13 @@ object MyMainObject {
 
   def main(args: Array[String]) {
 
+
+    val conf = new SparkConf()
+      .set("spark.serializer", "org.apache.spark.serializer.KryoSerializer")
+      .setAppName("AdnansSparkApp")
+
+    conf.set("spark.speculation","true")
+
     val conf = new SparkConf().setAppName("AdnansSparkApp")
 
     // Lets Create a Scala Spark Context.
@@ -21,11 +28,11 @@ object MyMainObject {
 
     val sqlContext = new org.apache.spark.sql.SQLContext(sc)
 
-    // This import must be imported after the above statement (Always Remember)
+    // This import must be imported after the above statement (Remember!!)
     import sqlContext.implicits._
 
     // Lets drop some code here
-    val data = sc. textFile("/wherever/whatever")
+    val data = sc.textFile("/wherever/whatever")
 
     // Make sure to convert your Dataframe to rdd to use the method 'saveAsTextFile'
     rddJoined.saveAsTextFile("/wherever/whatever")
