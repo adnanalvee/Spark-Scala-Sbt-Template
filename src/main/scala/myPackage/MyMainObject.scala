@@ -14,14 +14,9 @@ object MyMainObject {
 
   def main(args: Array[String]) {
 
-
     val conf = new SparkConf()
       .set("spark.serializer", "org.apache.spark.serializer.KryoSerializer")
       .setAppName("AdnansSparkApp")
-
-    conf.set("spark.speculation","true")
-
-    val conf = new SparkConf().setAppName("AdnansSparkApp")
 
     // Lets Create a Scala Spark Context.
     val sc = new SparkContext(conf)
