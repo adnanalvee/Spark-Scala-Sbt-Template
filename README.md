@@ -5,10 +5,10 @@ scala, sbt
 
 ### Things to change
 
-default settings in build.sbt file, change according to your project. 
-  `name := "Sample_Spark_Submit_Project",` 
-  `version := "1.0",`
-  `scalaVersion := "2.11.0",`
+default settings in build.sbt file, change according to your project.  <br />
+  `name := "Sample_Spark_Submit_Project",`  <br />
+  `version := "1.0",` <br />
+  `scalaVersion := "2.11.0",` <br />
   `assemblyJarName in assembly := "Adnan.jar",`
   `mainClass in Compile := Some("com.adnan.MyObject")`
 
