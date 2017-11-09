@@ -3,6 +3,16 @@
 ### Requirements:
 scala, sbt
 
+### Things to change
+
+default settings in build.sbt file, change according to your project
+`name := "Sample_Spark_Submit_Project",
+ version := "1.0",
+ scalaVersion := "2.11.0",
+ assemblyJarName in assembly := "Adnan.jar",
+ mainClass in Compile := Some("com.adnan.MyObject")`
+
+
 ### How to use:
 
 `git clone https://github.com/adnanalvee/Spark-Scala-Sbt-Template.git`  
