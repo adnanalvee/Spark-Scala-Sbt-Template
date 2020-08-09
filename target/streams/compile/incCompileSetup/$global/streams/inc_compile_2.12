@@ -1,0 +1,144 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.0
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> /Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/target/scala-2.12/classes/com/aws/emr/ProfitCalc$.class
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> /Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/target/scala-2.12/classes/com/aws/emr/ProfitCalc.class
+binary dependencies:
+5 items
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> /Users/alveadna/.ivy2/cache/org.apache.spark/spark-catalyst_2.12/jars/spark-catalyst_2.12-2.4.0.jar
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> /Users/alveadna/.ivy2/cache/org.apache.spark/spark-core_2.12/jars/spark-core_2.12-2.4.0.jar
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> /Users/alveadna/.ivy2/cache/org.apache.spark/spark-sql_2.12/jars/spark-sql_2.12-2.4.0.jar
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> /Users/alveadna/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> com.aws.emr.ProfitCalc
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> com.aws.emr.ProfitCalc$
+used names:
+55 items
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> <init>
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> <repeated>
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> AnyRef
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> Array
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> Builder
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> Column
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> DataFrame
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> DataFrameReader
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> DataFrameWriter
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> Dataset
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> Int
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> Object
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> Predef
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> ProfitCalc
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> RelationalGroupedDataset
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> Row
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> SparkConf
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> SparkContext
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> SparkSession
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> String
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> Unit
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> agg
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> aggDF
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> alias
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> apache
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> appName
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> apply
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> args
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> aws
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> builder
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> cast
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> coalesce
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> com
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> config
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> csv
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> dataDF
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> emr
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> enableHiveSupport
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> format
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> functions
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> getOrCreate
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> groupBy
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> input
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> option
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> org
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> output
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> package
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> read
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> save
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> scala
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> spark
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> sql
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> sum
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> types
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> write
+product stamps:
+2 items
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/target/scala-2.12/classes/com/aws/emr/ProfitCalc$.class -> lastModified(1596408340000)
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/target/scala-2.12/classes/com/aws/emr/ProfitCalc.class -> lastModified(1596408340000)
+source stamps:
+1 items
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> hash(06d71a09c9128e86e24616bdbe3cd980db6ea3df)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1587545691000)
+/Users/alveadna/.ivy2/cache/org.apache.spark/spark-catalyst_2.12/jars/spark-catalyst_2.12-2.4.0.jar -> lastModified(1540800028000)
+/Users/alveadna/.ivy2/cache/org.apache.spark/spark-core_2.12/jars/spark-core_2.12-2.4.0.jar -> lastModified(1540799749000)
+/Users/alveadna/.ivy2/cache/org.apache.spark/spark-sql_2.12/jars/spark-sql_2.12-2.4.0.jar -> lastModified(1540799966000)
+/Users/alveadna/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.0.jar -> lastModified(1477696052000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/alveadna/.ivy2/cache/org.apache.spark/spark-catalyst_2.12/jars/spark-catalyst_2.12-2.4.0.jar -> org.apache.spark.sql.Row
+/Users/alveadna/.ivy2/cache/org.apache.spark/spark-core_2.12/jars/spark-core_2.12-2.4.0.jar -> org.apache.spark.SparkConf$
+/Users/alveadna/.ivy2/cache/org.apache.spark/spark-sql_2.12/jars/spark-sql_2.12-2.4.0.jar -> org.apache.spark.sql.SparkSession
+/Users/alveadna/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.0.jar -> scala.Array
+internal apis:
+1 items
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6LzsJwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdPm6mXQABm5vdGlmeXNxAH4ADPsTH6d0AAR3YWl0c3EAfgAMxD/8r3QADSRhc0luc3RhbmNlT2ZzcQB+AAxyEcwBdAAGZXF1YWxzc3EAfgAMwMq+j3QADGFzSW5zdGFuY2VPZnNxAH4ADEhPFxF0AAxzeW5jaHJvbml6ZWRzcQB+AAyS6ZHQdAAKUHJvZml0Q2FsY3NxAH4ADDFNG8J0AA0kaXNJbnN0YW5jZU9mc3EAfgAMepuCRXQABG1haW5zcQB+AAzOadDgdAAJbm90aWZ5QWxsc3EAfgAMO7tQbXQADGlzSW5zdGFuY2VPZnNxAH4ADHnaiw90AAI9PXNxAH4ADCGjL5Z0AAVjbG9uZXNxAH4ADN5qMgx0AAh0b1N0cmluZ3NxAH4ADMsCCdl0AAIhPXNxAH4ADJjjiOd0AAhnZXRDbGFzc3NxAH4ADBEJ52l0AAJuZXNxAH4ADLtpJqJ0AAJlcXNxAH4ADDvZyLB0AAIjI3NxAH4ADDo8FpZ0AAhmaW5hbGl6ZXNxAH4ADPf9nMp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABZjb20uYXdzLmVtci5Qcm9maXRDYWxjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2NvbS5hd3NzcQB+AKZ0AANjb21zcQB+AKZ0AAtjb20uYXdzLmVtcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABc7FaEDp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAB5L1VzZXJzL2FsdmVhZG5hL3dvcmsvcHJvamVjdHMvYXBnL3NwYXJrX2xhdW5jaGVyL2Jpbi9zcGFya19jb2RlL3NwYXJrLXNjYWxhLXNidC10ZW1wbGF0ZS1tYXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAbXGgnJEo6G4kYWvb482YDbbqPf
+external apis:
+0 items
+source infos:
+1 items
+/Users/alveadna/work/projects/apg/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/src/main/scala/com/aws/emr/ProfitCalc.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABc6HI3hF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9hbHZlYWRuYS93b3JrL3Byb2plY3RzL2FwZy9zcGFya19sYXVuY2hlci9iaW4vc3BhcmtfY29kZS9zcGFyay1zY2FsYS1zYnQtdGVtcGxhdGUtbWFzdGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABc6HSI0Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9hbHZlYWRuYS93b3JrL3Byb2plY3RzL2FwZy9zcGFya19sYXVuY2hlci9iaW4vc3BhcmtfY29kZS9zcGFyay1zY2FsYS1zYnQtdGVtcGxhdGUtbWFzdGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABc7FaEDp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9Vc2Vycy9hbHZlYWRuYS93b3JrL3Byb2plY3RzL2FwZy9zcGFya19sYXVuY2hlci9iaW4vc3BhcmtfY29kZS9zcGFyay1zY2FsYS1zYnQtdGVtcGxhdGUtbWFzdGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv

@@ -1,13 +1,13 @@
 lazy val root = (project in file(".")).
   settings(
-  name := "Sample_Spark_Submit_Project",
+  name := "LambdaEMRSparkBatchJob",
   version := "1.0",
-  scalaVersion := "2.11.0",
-  assemblyJarName in assembly := "Adnan.jar",
-  mainClass in Compile := Some("com.adnan.MyObject")
+  scalaVersion := "2.12.0",
+  assemblyJarName in assembly := "SparkProfitCalc.jar",
+  mainClass in Compile := Some("com.aws.emr")
   )
 
-val sparkVersion = "2.1.1"
+val sparkVersion = "2.4.0"
 
 resolvers ++= Seq(
   "apache-snapshots" at "http://repository.apache.org/snapshots/"
@@ -20,10 +20,4 @@ libraryDependencies ++= Seq(
     "org.apache.spark" %% "spark-hive" % sparkVersion % "provided"
   )
 
-  // META-INF discarding
-  mergeStrategy in assembly <<= (mergeStrategy in assembly) { (old) =>
-     {
-      case PathList("META-INF", xs @ _*) => MergeStrategy.discard
-      case x => MergeStrategy.first
-     }
-  }
+
