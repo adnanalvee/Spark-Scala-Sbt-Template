@@ -4,7 +4,7 @@
 		module="lambdaemrsparkbatchjob_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20200730170944"
+		publication="20200809161945"
 	>
 		<description>
 		LambdaEMRSparkBatchJob
