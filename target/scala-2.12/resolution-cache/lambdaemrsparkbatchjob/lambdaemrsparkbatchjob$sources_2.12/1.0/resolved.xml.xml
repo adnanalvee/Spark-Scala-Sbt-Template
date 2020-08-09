@@ -4,7 +4,7 @@
 		module="lambdaemrsparkbatchjob$sources_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20200809161952"
+		publication="20200809162151"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

@@ -1,10 +1,10 @@
 lazy val root = (project in file(".")).
   settings(
-  name := "LambdaEMRSparkBatchJob",
+  name := "SampleSparkSubmitTemplate",
   version := "1.0",
   scalaVersion := "2.12.0",
   assemblyJarName in assembly := "SparkProfitCalc.jar",
-  mainClass in Compile := Some("com.aws.emr")
+  mainClass in Compile := Some("com.adnan.emr")
   )
 
 val sparkVersion = "2.4.0"
