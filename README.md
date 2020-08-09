@@ -28,7 +28,7 @@ default settings in build.sbt file, change according to your project.  <br />
 `--master local`  <br />
 `--driver-memory 2g` <br />
 `--executor-memory  2g` <br />
-`--class com.aws.emr.ProfitCalc` <br />
+`--class com.adnan.emr.ProfitCalc` <br />
 `/Users/yourprofile/prefix/spark-scala-sbt-template-master/target/scala-2.12/SparkProfitCalc.jar` <br />
 `/Users/yourprofile/prefix/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/target/scala-2.12/sales_data.csv` <br />
 `/Users/yourprofile/prefix/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/target/scala-2.12/output`  <br />
