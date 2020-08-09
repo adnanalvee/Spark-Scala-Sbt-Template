@@ -1,5 +1,5 @@
 # Spark-Scala Sbt Template
-This is a sample Spark job written in Scala running computation on dummy sales data. The sales data is provided as a CSV file. Check how to run locally below to trigger a test run.  
+This is a sample Spark job written in Scala running computation on dummy sales data. The sales data is provided as a CSV file. Check how to run locally below to trigger a test run.
 
 ### Requirements:
 scala, sbt
@@ -23,14 +23,14 @@ default settings in build.sbt file, change according to your project.  <br />
 1. Install homebrew in mac
 2. Run 'brew install apache-spark' (This will install apache spark locally in your desktop)
 3. Go to the code directory > target/scala-2.12
-4. Run the following command from the directory
-   `spark-submit` 
-`--master local`  
-`--driver-memory 2g`
-`--executor-memory  2g`
-`--class com.aws.emr.ProfitCalc` 
-`/Users/yourprofile/prefix/spark-scala-sbt-template-master/target/scala-2.12/SparkProfitCalc.jar` 
-`/Users/yourprofile/prefix/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/target/scala-2.12/sales_data.csv` 
-`/Users/yourprofile/prefix/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/target/scala-2.12/output`  
+4. Run the following command from the directory changing the location parameters as per your environment. 
+   `spark-submit` <br />
+`--master local`  <br />
+`--driver-memory 2g` <br />
+`--executor-memory  2g` <br />
+`--class com.aws.emr.ProfitCalc` <br />
+`/Users/yourprofile/prefix/spark-scala-sbt-template-master/target/scala-2.12/SparkProfitCalc.jar` <br />
+`/Users/yourprofile/prefix/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/target/scala-2.12/sales_data.csv` <br />
+`/Users/yourprofile/prefix/spark_launcher/bin/spark_code/spark-scala-sbt-template-master/target/scala-2.12/output`  <br />
 5. Once the code runs successfully, you find the output in the output directory under target/scala-2.12.
    
